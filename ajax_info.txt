@@ -1,0 +1,22 @@
+We heard that you lost your GitHub password. Sorry about that!
+
+
+
+But don’t worry! You can use the following link to reset your password:
+
+
+
+https://github.com/password_reset/ANLONHHG26KXDRTQQMKF6KS7NTBVDBFFMVWWC2LMXJWGC23TNBWWS23BNZ2GQ23DONSUAZ3NMFUWYLTDN5W2KZTPOJRWLQVTOR3W6X3GMFRXI33SL53GK4TJMZUWKZGCXJTG64TDMVSF653FMFVV64DBONZXO33SMRPXEZLTMV2ME
+
+
+
+If you don’t use this link within 3 hours, it will expire. To get a new password reset link, visit https://github.com/password_reset
+
+
+
+
+
+Thanks,
+
+The GitHub Team
+
